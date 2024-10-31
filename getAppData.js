@@ -1,1 +1,1 @@
-console.log(process.env.APPDATA)
+console.log(process.env.APPDATA);
